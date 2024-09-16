@@ -2,7 +2,7 @@ package ProblemsOnString;
 
 import java.util.HashMap;
 
-public class countTheCharacterInString {
+public class countTheOccurancesInString {
 
 	public static void main(String[] args) {
 		
