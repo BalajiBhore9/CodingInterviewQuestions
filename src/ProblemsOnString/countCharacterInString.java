@@ -13,5 +13,4 @@ public class countCharacterInString {
 		}
 		System.out.println(count);
 	}
-
 }

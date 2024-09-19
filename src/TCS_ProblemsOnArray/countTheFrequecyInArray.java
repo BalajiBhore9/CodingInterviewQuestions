@@ -6,7 +6,6 @@ public class countTheFrequecyInArray {
 
 	public static void main(String[] args) {
 		// count the frequency of each element in an array
-		
 		int [] arr = {10,20,20,10,10,20,5,60,95};
 		HashMap<Integer,Integer> hmap = new HashMap<>();
 		for(int i=0;i<arr.length;i++)
